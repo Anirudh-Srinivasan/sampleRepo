@@ -1,1 +1,2 @@
 This is just a new file
+This line is types for creating a merge conflict
